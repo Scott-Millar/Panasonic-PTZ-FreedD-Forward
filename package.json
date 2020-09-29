@@ -1,0 +1,19 @@
+{
+  "name": "panasonic-ptz-freedd-forward",
+  "version": "1.0.0",
+  "description": "Forwards Panasonic PTZ data from one port to broadcast on a second port.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scott-Millar/Panasonic-PTZ-FreedD-Forward.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scott-Millar/Panasonic-PTZ-FreedD-Forward/issues"
+  },
+  "homepage": "https://github.com/Scott-Millar/Panasonic-PTZ-FreedD-Forward#readme"
+}
