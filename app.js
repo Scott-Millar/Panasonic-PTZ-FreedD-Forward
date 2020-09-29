@@ -1,3 +1,4 @@
+var dgram = require('dgram')
 var BROADCAST_ADDR = "10.2.10.255" // Set the broadcast IP address for the output network
 // var BROADCAST_ADDR = "127.0.0.255" // Set Local Test IP
 var server = []
